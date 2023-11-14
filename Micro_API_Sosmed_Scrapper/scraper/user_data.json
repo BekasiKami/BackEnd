@@ -1,0 +1,1407 @@
+{
+    "data": {
+        "mediaData": {
+            "threads": [
+                {
+                    "thread_items": [
+                        {
+                            "post": {
+                                "user": {
+                                    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/357850366_1332999474311178_7999188852534281106_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=srIFS-aGS_wAX8bWTtI&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfA2VJqa_ffAAbrShPuT5zgP5sElrKHaNbc6HbdrifR7GA&oe=65473B35&_nc_sid=10d13b",
+                                    "username": "bekasi24jamcom",
+                                    "id": null,
+                                    "is_verified": false,
+                                    "pk": "3304615423"
+                                },
+                                "image_versions2": {
+                                    "candidates": []
+                                },
+                                "original_width": 612,
+                                "original_height": 612,
+                                "video_versions": null,
+                                "carousel_media": null,
+                                "carousel_media_count": null,
+                                "pk": "3224181710945868026",
+                                "has_audio": null,
+                                "text_post_app_info": {
+                                    "link_preview_attachment": {
+                                        "display_url": "bekasi24jam.com",
+                                        "favicon_url": null,
+                                        "image_url": "https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/9395480541342353813?stp=dst-src&url=https%3A%2F%2Fbekasi24jam.com%2Fassets%2F2023%2F10%2FTPST-Bantargebang-Bekasi.jpeg&utld=bekasi24jam.com&ccb=13-1&oh=06_AbFhs_KJdTbTQOkBbELAzqgQWF-0wO-BX0-cc1o1CTyD5Q&oe=6543768D&_nc_sid=57c2a2",
+                                        "title": "Gunung Sampah TPST Bantargebang Terbakar - Bekasi24jam",
+                                        "url": "https://l.instagram.com/?u=https%3A%2F%2Fbekasi24jam.com%2Fgunung-sampah-tpst-bantargebang-terbakar%2F&e=AT32atj6v4Z7LIhIgioWXCDBk7bpnapOqEICSO56yfZdeHn1QYFYkDromO03-frWM2IcZiT1anwvgsob0KwNruz3cL-fF5IBaF-2SQ8sVcOGoqot00ZC3D-Zgel7hcGTZ4wb8w"
+                                    },
+                                    "share_info": {
+                                        "quoted_post": null,
+                                        "reposted_post": null
+                                    },
+                                    "reply_to_author": null,
+                                    "is_post_unavailable": false
+                                },
+                                "caption": {
+                                    "text": "Gunung Sampah TPST Bantargebang Terbakar\n\nhttps://bekasi24jam.com/gunung-sampah-tpst-bantargebang-terbakar/"
+                                },
+                                "taken_at": 1698572432,
+                                "like_count": 2,
+                                "code": "Cy-mC8EPVj6",
+                                "media_overlay_info": null,
+                                "id": "3224181710945868026_3304615423"
+                            },
+                            "line_type": "none",
+                            "view_replies_cta_string": null,
+                            "reply_facepile_users": [],
+                            "should_show_replies_cta": false,
+                            "__typename": "XDTThreadItem"
+                        }
+                    ],
+                    "id": "3224181710945868026"
+                },
+                {
+                    "thread_items": [
+                        {
+                            "post": {
+                                "user": {
+                                    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/357850366_1332999474311178_7999188852534281106_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=srIFS-aGS_wAX8bWTtI&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfA2VJqa_ffAAbrShPuT5zgP5sElrKHaNbc6HbdrifR7GA&oe=65473B35&_nc_sid=10d13b",
+                                    "username": "bekasi24jamcom",
+                                    "id": null,
+                                    "is_verified": false,
+                                    "pk": "3304615423"
+                                },
+                                "image_versions2": {
+                                    "candidates": []
+                                },
+                                "original_width": 612,
+                                "original_height": 612,
+                                "video_versions": null,
+                                "carousel_media": null,
+                                "carousel_media_count": null,
+                                "pk": "3216248344212704758",
+                                "has_audio": null,
+                                "text_post_app_info": {
+                                    "link_preview_attachment": {
+                                        "display_url": "bekasi24jam.com",
+                                        "favicon_url": null,
+                                        "image_url": "https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/3312422085093803772?stp=dst-src&url=https%3A%2F%2Fbekasi24jam.com%2Fassets%2F2023%2F10%2FGanjar-Mahfud-MD.jpeg&utld=bekasi24jam.com&ccb=13-1&oh=06_AbFUmkkhvdfwsKiNejokFzBDjcS1GTf61Tbdvu_Phgx4bQ&oe=65434D11&_nc_sid=57c2a2",
+                                        "title": "Respon PDIP Kota Bekasi Mahfud MD Jadi Cawapres - Bekasi24jam",
+                                        "url": "https://l.instagram.com/?u=https%3A%2F%2Fbekasi24jam.com%2Frespon-pdip-kota-bekasi-mahfud-md-jadi-cawapres%2F&e=AT25BySguHwD4rnHwXCXuDhQCVMIF5NM5jaAdSQOo2HeIjpFGs4_xsN_bgSc5Xxk4m_W75kzfN3JwZMEtQWiBzgelhI74u6gS7CMk6KTSZ2sBYyiuTaYVC5kJT5aOB9gl_VLSQ"
+                                    },
+                                    "share_info": {
+                                        "quoted_post": null,
+                                        "reposted_post": null
+                                    },
+                                    "reply_to_author": null,
+                                    "is_post_unavailable": false
+                                },
+                                "caption": {
+                                    "text": "Respon PDIP Kota Bekasi Mahfud MD Jadi Cawapres\nhttps://bekasi24jam.com/respon-pdip-kota-bekasi-mahfud-md-jadi-cawapres/"
+                                },
+                                "taken_at": 1697626701,
+                                "like_count": 4,
+                                "code": "CyiaNQiPI32",
+                                "media_overlay_info": null,
+                                "id": "3216248344212704758_3304615423"
+                            },
+                            "line_type": "none",
+                            "view_replies_cta_string": null,
+                            "reply_facepile_users": [],
+                            "should_show_replies_cta": false,
+                            "__typename": "XDTThreadItem"
+                        }
+                    ],
+                    "id": "3216248344212704758"
+                },
+                {
+                    "thread_items": [
+                        {
+                            "post": {
+                                "user": {
+                                    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/357850366_1332999474311178_7999188852534281106_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=srIFS-aGS_wAX8bWTtI&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfA2VJqa_ffAAbrShPuT5zgP5sElrKHaNbc6HbdrifR7GA&oe=65473B35&_nc_sid=10d13b",
+                                    "username": "bekasi24jamcom",
+                                    "id": null,
+                                    "is_verified": false,
+                                    "pk": "3304615423"
+                                },
+                                "image_versions2": {
+                                    "candidates": []
+                                },
+                                "original_width": 612,
+                                "original_height": 612,
+                                "video_versions": null,
+                                "carousel_media": null,
+                                "carousel_media_count": null,
+                                "pk": "3216247630166178498",
+                                "has_audio": null,
+                                "text_post_app_info": {
+                                    "link_preview_attachment": {
+                                        "display_url": "bekasi24jam.com",
+                                        "favicon_url": null,
+                                        "image_url": "https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/7237787476553393915?stp=dst-src&url=https%3A%2F%2Fbekasi24jam.com%2Fassets%2F2023%2F10%2FScreenshot_20231018_174803_Instagram.jpg&utld=bekasi24jam.com&ccb=13-1&oh=06_AbGd75PyEyWOhnrMdqzUjGYY14EDF2pDuYJUlOYfSvdmPQ&oe=65438215&_nc_sid=57c2a2",
+                                        "title": "Anies-Muhaimin Daftar Besok, NasDem dan PKS Bekasi Siap Kawal - Bekasi24jam",
+                                        "url": "https://l.instagram.com/?u=https%3A%2F%2Fbekasi24jam.com%2Fanies-muhaimin-daftar-besok-nasdem-dan-pks-bekasi-siap-kawal%2F&e=AT3uFcV-3J3xYbX6gQyeBsEap37FwN6-Fgp_xkJfuf5ZPY0rbem815Axtz9J3xRr384Y5aaZ8UpxQPP4x4jtyw6NI57gC3gass3ciew6Fox0ZqIx1vwd5K0BLmPDjqIf4mmXfQ"
+                                    },
+                                    "share_info": {
+                                        "quoted_post": null,
+                                        "reposted_post": null
+                                    },
+                                    "reply_to_author": null,
+                                    "is_post_unavailable": false
+                                },
+                                "caption": {
+                                    "text": "Anies-Muhaimin Daftar Besok, NasDem dan PKS Bekasi Siap Kawal\n\nhttps://bekasi24jam.com/anies-muhaimin-daftar-besok-nasdem-dan-pks-bekasi-siap-kawal/"
+                                },
+                                "taken_at": 1697626616,
+                                "like_count": 3,
+                                "code": "CyiaC3hvzrC",
+                                "media_overlay_info": null,
+                                "id": "3216247630166178498_3304615423"
+                            },
+                            "line_type": "none",
+                            "view_replies_cta_string": null,
+                            "reply_facepile_users": [],
+                            "should_show_replies_cta": false,
+                            "__typename": "XDTThreadItem"
+                        }
+                    ],
+                    "id": "3216247630166178498"
+                },
+                {
+                    "thread_items": [
+                        {
+                            "post": {
+                                "user": {
+                                    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/357850366_1332999474311178_7999188852534281106_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=srIFS-aGS_wAX8bWTtI&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfA2VJqa_ffAAbrShPuT5zgP5sElrKHaNbc6HbdrifR7GA&oe=65473B35&_nc_sid=10d13b",
+                                    "username": "bekasi24jamcom",
+                                    "id": null,
+                                    "is_verified": false,
+                                    "pk": "3304615423"
+                                },
+                                "image_versions2": {
+                                    "candidates": []
+                                },
+                                "original_width": 612,
+                                "original_height": 612,
+                                "video_versions": null,
+                                "carousel_media": null,
+                                "carousel_media_count": null,
+                                "pk": "3211816524436055796",
+                                "has_audio": null,
+                                "text_post_app_info": {
+                                    "link_preview_attachment": {
+                                        "display_url": "bekasi24jam.com",
+                                        "favicon_url": null,
+                                        "image_url": "https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/542165255506020627?stp=dst-src&url=https%3A%2F%2Fbekasi24jam.com%2Fassets%2F2023%2F10%2FAPK-di-Narogong.jpeg&utld=bekasi24jam.com&ccb=13-1&oh=06_AbHRkoU59ffrKExVdnrVACWYW-uFDbUvTu8-hKHidm_xAA&oe=65434BBE&_nc_sid=57c2a2",
+                                        "title": "Alat Peraga Kampanye di Kota Bekasi Bakal Dicopot - Bekasi24jam",
+                                        "url": "https://l.instagram.com/?u=https%3A%2F%2Fbekasi24jam.com%2Falat-peraga-kampanye-di-kota-bekasi-bakal-dicopot%2F&e=AT3lWqux2MIynX_aWqCSGaobU8bjZLmWVK3bJu1ZGolY_2vxRwsTBwyuUEJi9nF0ni7nZt3l6Cs-ytnFmczNHhRGCE29xQpB56WOwte7eJC-UEuiuM-LRMHxnF_eS_KsCkAONQ"
+                                    },
+                                    "share_info": {
+                                        "quoted_post": null,
+                                        "reposted_post": null
+                                    },
+                                    "reply_to_author": null,
+                                    "is_post_unavailable": false
+                                },
+                                "caption": {
+                                    "text": "Alat Peraga Kampanye di Kota Bekasi Bakal Dicopot \nhttps://bekasi24jam.com/alat-peraga-kampanye-di-kota-bekasi-bakal-dicopot/"
+                                },
+                                "taken_at": 1697098387,
+                                "like_count": 1,
+                                "code": "CySqhyuvab0",
+                                "media_overlay_info": null,
+                                "id": "3211816524436055796_3304615423"
+                            },
+                            "line_type": "none",
+                            "view_replies_cta_string": null,
+                            "reply_facepile_users": [],
+                            "should_show_replies_cta": false,
+                            "__typename": "XDTThreadItem"
+                        }
+                    ],
+                    "id": "3211816524436055796"
+                },
+                {
+                    "thread_items": [
+                        {
+                            "post": {
+                                "user": {
+                                    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/357850366_1332999474311178_7999188852534281106_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=srIFS-aGS_wAX8bWTtI&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfA2VJqa_ffAAbrShPuT5zgP5sElrKHaNbc6HbdrifR7GA&oe=65473B35&_nc_sid=10d13b",
+                                    "username": "bekasi24jamcom",
+                                    "id": null,
+                                    "is_verified": false,
+                                    "pk": "3304615423"
+                                },
+                                "image_versions2": {
+                                    "candidates": []
+                                },
+                                "original_width": 612,
+                                "original_height": 612,
+                                "video_versions": null,
+                                "carousel_media": null,
+                                "carousel_media_count": null,
+                                "pk": "3210979924106004659",
+                                "has_audio": null,
+                                "text_post_app_info": {
+                                    "link_preview_attachment": {
+                                        "display_url": "bekasi24jam.com",
+                                        "favicon_url": null,
+                                        "image_url": "https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/16452849394704743949?stp=dst-src&url=https%3A%2F%2Fbekasi24jam.com%2Fassets%2F2023%2F10%2FIMG-20231011-WA0004.jpg&utld=bekasi24jam.com&ccb=13-1&oh=06_AbESpcyKuzRiXagI0MHv1Yh74Zm95gZgp3hwAjendUdFxg&oe=6543B5E1&_nc_sid=57c2a2",
+                                        "title": "Kronologi Kecelakaan Mobil Tabrak Tiang Lampu dan Pohon di Bekasi - Bekasi24jam",
+                                        "url": "https://l.instagram.com/?u=https%3A%2F%2Fbekasi24jam.com%2Fkronologi-kecelakaan-mobil-tabrak-tiang-lampu-dan-pohon-di-bekasi%2F&e=AT2Y5OKzuW_UJWYTWaYDmDVjSx1K6TMCP-3zZXyT7FVppQhYV3Wm-QarL1DKy1li8oVaxOvXNf0Y1JAU8dRvc4gJ5bhjVzbnTPpSYrSdIa6lNsxTsze6M9i2KElWxwvcEExQ3Q"
+                                    },
+                                    "share_info": {
+                                        "quoted_post": null,
+                                        "reposted_post": null
+                                    },
+                                    "reply_to_author": null,
+                                    "is_post_unavailable": false
+                                },
+                                "caption": {
+                                    "text": "Kronologi Kecelakaan Mobil Tabrak Tiang Lampu dan Pohon di Bekasi\n\nhttps://bekasi24jam.com/kronologi-kecelakaan-mobil-tabrak-tiang-lampu-dan-pohon-di-bekasi/"
+                                },
+                                "taken_at": 1696998657,
+                                "like_count": 1,
+                                "code": "CyPsTp9P8iz",
+                                "media_overlay_info": null,
+                                "id": "3210979924106004659_3304615423"
+                            },
+                            "line_type": "none",
+                            "view_replies_cta_string": null,
+                            "reply_facepile_users": [],
+                            "should_show_replies_cta": false,
+                            "__typename": "XDTThreadItem"
+                        }
+                    ],
+                    "id": "3210979924106004659"
+                },
+                {
+                    "thread_items": [
+                        {
+                            "post": {
+                                "user": {
+                                    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/357850366_1332999474311178_7999188852534281106_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=srIFS-aGS_wAX8bWTtI&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfA2VJqa_ffAAbrShPuT5zgP5sElrKHaNbc6HbdrifR7GA&oe=65473B35&_nc_sid=10d13b",
+                                    "username": "bekasi24jamcom",
+                                    "id": null,
+                                    "is_verified": false,
+                                    "pk": "3304615423"
+                                },
+                                "image_versions2": {
+                                    "candidates": []
+                                },
+                                "original_width": 612,
+                                "original_height": 612,
+                                "video_versions": null,
+                                "carousel_media": null,
+                                "carousel_media_count": null,
+                                "pk": "3210172727214077707",
+                                "has_audio": null,
+                                "text_post_app_info": {
+                                    "link_preview_attachment": {
+                                        "display_url": "bekasi24jam.com",
+                                        "favicon_url": null,
+                                        "image_url": "https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/7434877540779050478?stp=dst-src&url=https%3A%2F%2Fbekasi24jam.com%2Fassets%2F2023%2F10%2Fpelaku-pencurian-sepeda-motor.jpeg&utld=bekasi24jam.com&ccb=13-1&oh=06_AbGsQck6WQ4_l5pupn6oY61kQ7SWik-AOhIfxFJI5bR7KQ&oe=6543827E&_nc_sid=57c2a2",
+                                        "title": "Panik! Tiga Pelaku Pencurian Motor Buang Kunci Letter T - Bekasi24jam",
+                                        "url": "https://l.instagram.com/?u=https%3A%2F%2Fbekasi24jam.com%2Fpanik-tiga-pelaku-pencurian-motor-buang-kunci-letter-t%2F&e=AT1vGo-a1XJAZrn_HOolToWQ_sSF5XXYZkeBUG0lRenMbpSwxca9LHTrgfOSRSoi3sZn7uAfQVSGEPNIiSVqSjubeDSnyaynuxQwTRjQURgFvF4Y57rlGhFr8B6WK5dazbf6PQ"
+                                    },
+                                    "share_info": {
+                                        "quoted_post": null,
+                                        "reposted_post": null
+                                    },
+                                    "reply_to_author": null,
+                                    "is_post_unavailable": false
+                                },
+                                "caption": {
+                                    "text": "Panik! Tiga Pelaku Pencurian Motor Buang Kunci Letter T\nhttps://bekasi24jam.com/panik-tiga-pelaku-pencurian-motor-buang-kunci-letter-t/"
+                                },
+                                "taken_at": 1696902431,
+                                "like_count": 2,
+                                "code": "CyM0xZRPfcL",
+                                "media_overlay_info": null,
+                                "id": "3210172727214077707_3304615423"
+                            },
+                            "line_type": "none",
+                            "view_replies_cta_string": null,
+                            "reply_facepile_users": [],
+                            "should_show_replies_cta": false,
+                            "__typename": "XDTThreadItem"
+                        }
+                    ],
+                    "id": "3210172727214077707"
+                },
+                {
+                    "thread_items": [
+                        {
+                            "post": {
+                                "user": {
+                                    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/357850366_1332999474311178_7999188852534281106_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=srIFS-aGS_wAX8bWTtI&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfA2VJqa_ffAAbrShPuT5zgP5sElrKHaNbc6HbdrifR7GA&oe=65473B35&_nc_sid=10d13b",
+                                    "username": "bekasi24jamcom",
+                                    "id": null,
+                                    "is_verified": false,
+                                    "pk": "3304615423"
+                                },
+                                "image_versions2": {
+                                    "candidates": []
+                                },
+                                "original_width": 612,
+                                "original_height": 612,
+                                "video_versions": null,
+                                "carousel_media": null,
+                                "carousel_media_count": null,
+                                "pk": "3205258073656404354",
+                                "has_audio": null,
+                                "text_post_app_info": {
+                                    "link_preview_attachment": {
+                                        "display_url": "bekasi24jam.com",
+                                        "favicon_url": null,
+                                        "image_url": "https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/12770470996008161014?stp=dst-src&url=https%3A%2F%2Fbekasi24jam.com%2Fassets%2F2023%2F09%2FIMG-20230930-WA0002.jpg&utld=bekasi24jam.com&ccb=13-1&oh=06_AbF6kkWIQJhu3PVkTyb-_DwFOLP17k6NishmeNXcLs6qaw&oe=65432874&_nc_sid=57c2a2",
+                                        "title": "Dugaan Malapraktik RS di Jatiasih, Apa Kata Ikatan Dokter Anak? - Bekasi24jam",
+                                        "url": "https://l.instagram.com/?u=https%3A%2F%2Fbekasi24jam.com%2Fdugaan-malapraktik-rs-di-jatiasih-apa-kata-ikatan-dokter-anak%2F&e=AT3JBb5Enl4_fRBRAy7s2cZ4P-26Un6U_WEr6qpoZkAfwkva91864pG8urZVQ3e-uV5zu-mdy5xBkDYBbKgmcYbIu3ASVF-GsMCFH2pvOrRjC1GCli7pGRQ64qoyDQHoGCiWaw"
+                                    },
+                                    "share_info": {
+                                        "quoted_post": null,
+                                        "reposted_post": null
+                                    },
+                                    "reply_to_author": null,
+                                    "is_post_unavailable": false
+                                },
+                                "caption": {
+                                    "text": "Dugaan Malapraktik RS di Jatiasih, Apa Kata Ikatan Dokter Anak?\n\nhttps://bekasi24jam.com/dugaan-malapraktik-rs-di-jatiasih-apa-kata-ikatan-dokter-anak/"
+                                },
+                                "taken_at": 1696316559,
+                                "like_count": 4,
+                                "code": "Cx7XTxdvimC",
+                                "media_overlay_info": null,
+                                "id": "3205258073656404354_3304615423"
+                            },
+                            "line_type": "none",
+                            "view_replies_cta_string": null,
+                            "reply_facepile_users": [],
+                            "should_show_replies_cta": false,
+                            "__typename": "XDTThreadItem"
+                        }
+                    ],
+                    "id": "3205258073656404354"
+                },
+                {
+                    "thread_items": [
+                        {
+                            "post": {
+                                "user": {
+                                    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/357850366_1332999474311178_7999188852534281106_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=srIFS-aGS_wAX8bWTtI&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfA2VJqa_ffAAbrShPuT5zgP5sElrKHaNbc6HbdrifR7GA&oe=65473B35&_nc_sid=10d13b",
+                                    "username": "bekasi24jamcom",
+                                    "id": null,
+                                    "is_verified": false,
+                                    "pk": "3304615423"
+                                },
+                                "image_versions2": {
+                                    "candidates": []
+                                },
+                                "original_width": 612,
+                                "original_height": 612,
+                                "video_versions": null,
+                                "carousel_media": null,
+                                "carousel_media_count": null,
+                                "pk": "3205257875307753729",
+                                "has_audio": null,
+                                "text_post_app_info": {
+                                    "link_preview_attachment": {
+                                        "display_url": "bekasi24jam.com",
+                                        "favicon_url": null,
+                                        "image_url": "https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/12770470996008161014?stp=dst-src&url=https%3A%2F%2Fbekasi24jam.com%2Fassets%2F2023%2F09%2FIMG-20230930-WA0002.jpg&utld=bekasi24jam.com&ccb=13-1&oh=06_AbF6kkWIQJhu3PVkTyb-_DwFOLP17k6NishmeNXcLs6qaw&oe=65432874&_nc_sid=57c2a2",
+                                        "title": "Dugaan Malapraktik RS di Jatiasih, Apa Kata Ikatan Dokter Anak? - Bekasi24jam",
+                                        "url": "https://l.instagram.com/?u=https%3A%2F%2Fbekasi24jam.com%2Fdugaan-malapraktik-rs-di-jatiasih-apa-kata-ikatan-dokter-anak%2F&e=AT3JBb5Enl4_fRBRAy7s2cZ4P-26Un6U_WEr6qpoZkAfwkva91864pG8urZVQ3e-uV5zu-mdy5xBkDYBbKgmcYbIu3ASVF-GsMCFH2pvOrRjC1GCli7pGRQ64qoyDQHoGCiWaw"
+                                    },
+                                    "share_info": {
+                                        "quoted_post": null,
+                                        "reposted_post": null
+                                    },
+                                    "reply_to_author": null,
+                                    "is_post_unavailable": false
+                                },
+                                "caption": {
+                                    "text": "Dugaan Malapraktik RS di Jatiasih, Apa Kata Ikatan Dokter Anak?\n\nhttps://bekasi24jam.com/dugaan-malapraktik-rs-di-jatiasih-apa-kata-ikatan-dokter-anak/"
+                                },
+                                "taken_at": 1696316535,
+                                "like_count": 1,
+                                "code": "Cx7XQ4vPfEB",
+                                "media_overlay_info": null,
+                                "id": "3205257875307753729_3304615423"
+                            },
+                            "line_type": "none",
+                            "view_replies_cta_string": null,
+                            "reply_facepile_users": [],
+                            "should_show_replies_cta": false,
+                            "__typename": "XDTThreadItem"
+                        }
+                    ],
+                    "id": "3205257875307753729"
+                },
+                {
+                    "thread_items": [
+                        {
+                            "post": {
+                                "user": {
+                                    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/357850366_1332999474311178_7999188852534281106_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=srIFS-aGS_wAX8bWTtI&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfA2VJqa_ffAAbrShPuT5zgP5sElrKHaNbc6HbdrifR7GA&oe=65473B35&_nc_sid=10d13b",
+                                    "username": "bekasi24jamcom",
+                                    "id": null,
+                                    "is_verified": false,
+                                    "pk": "3304615423"
+                                },
+                                "image_versions2": {
+                                    "candidates": []
+                                },
+                                "original_width": 612,
+                                "original_height": 612,
+                                "video_versions": null,
+                                "carousel_media": null,
+                                "carousel_media_count": null,
+                                "pk": "3205103424081037131",
+                                "has_audio": null,
+                                "text_post_app_info": {
+                                    "link_preview_attachment": {
+                                        "display_url": "bekasi24jam.com",
+                                        "favicon_url": null,
+                                        "image_url": "https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/9231717601539675561?stp=dst-src&url=https%3A%2F%2Fbekasi24jam.com%2Fassets%2F2023%2F01%2F36425468139-On62fO.jpeg&utld=bekasi24jam.com&ccb=13-1&oh=06_AbGYkWXmCQvZdsHKj30hMhcTAfXyxxajt2KMNNTuuGYnYw&oe=6543BE3F&_nc_sid=57c2a2",
+                                        "title": "Kabar Terkini Proyek Jaringan Pipa Air Baku Kalimalang di Bekasi - Bekasi24jam",
+                                        "url": "https://l.instagram.com/?u=https%3A%2F%2Fbekasi24jam.com%2Fkabar-terkini-proyek-jaringan-pipa-air-baku-kalimalang-di-bekasi%2F&e=AT0gHHIX3EFhJrrq6GxK0_hcOiad4PxSnViz5WIODQNukMwEJtz9jH3VoiPq3RoKK0veOqvEK3eRZKKSiE0kd9m24NAFeB9AiwFda3T6E1Xzebm9GwpbqPZnyamC2ErcaFtF-A"
+                                    },
+                                    "share_info": {
+                                        "quoted_post": null,
+                                        "reposted_post": null
+                                    },
+                                    "reply_to_author": null,
+                                    "is_post_unavailable": false
+                                },
+                                "caption": {
+                                    "text": "Kabar Terkini Proyek Jaringan Pipa Air Baku Kalimalang di Bekasi\n\nhttps://bekasi24jam.com/kabar-terkini-proyek-jaringan-pipa-air-baku-kalimalang-di-bekasi/"
+                                },
+                                "taken_at": 1696298123,
+                                "like_count": 1,
+                                "code": "Cx60JU0vQdL",
+                                "media_overlay_info": null,
+                                "id": "3205103424081037131_3304615423"
+                            },
+                            "line_type": "none",
+                            "view_replies_cta_string": null,
+                            "reply_facepile_users": [],
+                            "should_show_replies_cta": false,
+                            "__typename": "XDTThreadItem"
+                        }
+                    ],
+                    "id": "3205103424081037131"
+                },
+                {
+                    "thread_items": [
+                        {
+                            "post": {
+                                "user": {
+                                    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/357850366_1332999474311178_7999188852534281106_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=srIFS-aGS_wAX8bWTtI&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfA2VJqa_ffAAbrShPuT5zgP5sElrKHaNbc6HbdrifR7GA&oe=65473B35&_nc_sid=10d13b",
+                                    "username": "bekasi24jamcom",
+                                    "id": null,
+                                    "is_verified": false,
+                                    "pk": "3304615423"
+                                },
+                                "image_versions2": {
+                                    "candidates": []
+                                },
+                                "original_width": 612,
+                                "original_height": 612,
+                                "video_versions": null,
+                                "carousel_media": null,
+                                "carousel_media_count": null,
+                                "pk": "3205103329826631277",
+                                "has_audio": null,
+                                "text_post_app_info": {
+                                    "link_preview_attachment": {
+                                        "display_url": "bekasi24jam.com",
+                                        "favicon_url": null,
+                                        "image_url": "https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/10274357378954834591?stp=dst-src&url=https%3A%2F%2Fbekasi24jam.com%2Fassets%2F2023%2F10%2FIMG-20231003-WA0001.jpg&utld=bekasi24jam.com&ccb=13-1&oh=06_AbEKg3si-y_aWAdWpjBRogQXIc5A0y_JWcB0OXww4N3AdQ&oe=6543B0B5&_nc_sid=57c2a2",
+                                        "title": "Bocah Diduga Korban Malpraktik RS di Jatiasih, Ortu Lapor Polisi - Bekasi24jam",
+                                        "url": "https://l.instagram.com/?u=https%3A%2F%2Fbekasi24jam.com%2Fbocah-diduga-korban-malpraktik-rs-di-jatiasih-ortu-lapor-polisi%2F&e=AT1ycHJLUinyDRgoONBliAJdRi97hN16BxDAoBUW7IkAdStJfUVBLKUPlpNfRvfApn9RbZSX5-ZTLFy_J6dkY6wrIuX9ZdMBHAaxJqdTmSLGFSbqkVziQQgJExA4w42MUSDqQA"
+                                    },
+                                    "share_info": {
+                                        "quoted_post": null,
+                                        "reposted_post": null
+                                    },
+                                    "reply_to_author": null,
+                                    "is_post_unavailable": false
+                                },
+                                "caption": {
+                                    "text": "Bocah Diduga Korban Malpraktik RS di Jatiasih, Ortu Lapor Polisi\n\nhttps://bekasi24jam.com/bocah-diduga-korban-malpraktik-rs-di-jatiasih-ortu-lapor-polisi/"
+                                },
+                                "taken_at": 1696298112,
+                                "like_count": 1,
+                                "code": "Cx60H9CvO5t",
+                                "media_overlay_info": null,
+                                "id": "3205103329826631277_3304615423"
+                            },
+                            "line_type": "none",
+                            "view_replies_cta_string": null,
+                            "reply_facepile_users": [],
+                            "should_show_replies_cta": false,
+                            "__typename": "XDTThreadItem"
+                        }
+                    ],
+                    "id": "3205103329826631277"
+                },
+                {
+                    "thread_items": [
+                        {
+                            "post": {
+                                "user": {
+                                    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/357850366_1332999474311178_7999188852534281106_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=srIFS-aGS_wAX8bWTtI&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfA2VJqa_ffAAbrShPuT5zgP5sElrKHaNbc6HbdrifR7GA&oe=65473B35&_nc_sid=10d13b",
+                                    "username": "bekasi24jamcom",
+                                    "id": null,
+                                    "is_verified": false,
+                                    "pk": "3304615423"
+                                },
+                                "image_versions2": {
+                                    "candidates": []
+                                },
+                                "original_width": 612,
+                                "original_height": 612,
+                                "video_versions": null,
+                                "carousel_media": null,
+                                "carousel_media_count": null,
+                                "pk": "3205103279688083773",
+                                "has_audio": null,
+                                "text_post_app_info": {
+                                    "link_preview_attachment": {
+                                        "display_url": "bekasi24jam.com",
+                                        "favicon_url": null,
+                                        "image_url": "https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/4243297791318432188?stp=dst-src&url=https%3A%2F%2Fbekasi24jam.com%2Fassets%2F2023%2F10%2FScreenshot_20231003_010438_Instagram.jpg&utld=bekasi24jam.com&ccb=13-1&oh=06_AbF3edb6g8nrJXdF8gXnKLiRDfz-h0Gb6V4mkyV6JMOlHA&oe=654329FA&_nc_sid=57c2a2",
+                                        "title": "Kasus Wowon Pembunuh Berantai, Tiga Terdakwa Dituntut Mati - Bekasi24jam",
+                                        "url": "https://l.instagram.com/?u=https%3A%2F%2Fbekasi24jam.com%2Fkasus-wowon-pembunuh-berantai-tiga-terdakwa-dituntut-mati%2F&e=AT3fonNQ2rYLmpwQIHKJKfM0IRE1uLPyjcIu3g8vF5XsPOm33djfNWa8Qf_x4rqpX7Kzv4i3Q__njRhdiHy9R2LvLdFzYhrSJjZT1W64uWk_Ixlry-TdKu-w6Q2HYeEmYoyeiA"
+                                    },
+                                    "share_info": {
+                                        "quoted_post": null,
+                                        "reposted_post": null
+                                    },
+                                    "reply_to_author": null,
+                                    "is_post_unavailable": false
+                                },
+                                "caption": {
+                                    "text": "Kasus Wowon Pembunuh Berantai, Tiga Terdakwa Dituntut Mati\n\nhttps://bekasi24jam.com/kasus-wowon-pembunuh-berantai-tiga-terdakwa-dituntut-mati/"
+                                },
+                                "taken_at": 1696298106,
+                                "like_count": 0,
+                                "code": "Cx60HOWP2k9",
+                                "media_overlay_info": null,
+                                "id": "3205103279688083773_3304615423"
+                            },
+                            "line_type": "none",
+                            "view_replies_cta_string": null,
+                            "reply_facepile_users": [],
+                            "should_show_replies_cta": false,
+                            "__typename": "XDTThreadItem"
+                        }
+                    ],
+                    "id": "3205103279688083773"
+                },
+                {
+                    "thread_items": [
+                        {
+                            "post": {
+                                "user": {
+                                    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/357850366_1332999474311178_7999188852534281106_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=srIFS-aGS_wAX8bWTtI&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfA2VJqa_ffAAbrShPuT5zgP5sElrKHaNbc6HbdrifR7GA&oe=65473B35&_nc_sid=10d13b",
+                                    "username": "bekasi24jamcom",
+                                    "id": null,
+                                    "is_verified": false,
+                                    "pk": "3304615423"
+                                },
+                                "image_versions2": {
+                                    "candidates": []
+                                },
+                                "original_width": 612,
+                                "original_height": 612,
+                                "video_versions": null,
+                                "carousel_media": null,
+                                "carousel_media_count": null,
+                                "pk": "3201084164451325613",
+                                "has_audio": null,
+                                "text_post_app_info": {
+                                    "link_preview_attachment": {
+                                        "display_url": "bekasi24jam.com",
+                                        "favicon_url": null,
+                                        "image_url": "https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/15069683997646918266?stp=dst-src&url=https%3A%2F%2Fbekasi24jam.com%2Fassets%2F2023%2F09%2FScreenshot_20230927_194341_Instagram.jpg&utld=bekasi24jam.com&ccb=13-1&oh=06_AbEKZhFn6jAjQr8tz6bJLqWo5CqhWdflvcX4b-dJqfbibA&oe=6543A68A&_nc_sid=57c2a2",
+                                        "title": "Ormas Berulah Lagi, Kali Ini Palak Tukang Fotokopi di Kayuringin - Bekasi24jam",
+                                        "url": "https://l.instagram.com/?u=https%3A%2F%2Fbekasi24jam.com%2Formas-berulah-lagi-kali-ini-palak-tukang-fotokopi-di-kayuringin%2F&e=AT0FUFCVAwxgki81C-J4pI3XUcxgNS6PW-2GdRdhPhoiEg0Lh_tKgHctQ2TuJo9-0sYmKyQNfU-2noZCQrUxt3bP61hELrb_-0bbAGoL0p40MSxOPE19S7NskkbnoxHQ2AT-tQ"
+                                    },
+                                    "share_info": {
+                                        "quoted_post": null,
+                                        "reposted_post": null
+                                    },
+                                    "reply_to_author": null,
+                                    "is_post_unavailable": false
+                                },
+                                "caption": {
+                                    "text": "Ormas Berulah Lagi, Kali Ini Palak Tukang Fotokopi di Kayuringin\n\nhttps://bekasi24jam.com/ormas-berulah-lagi-kali-ini-palak-tukang-fotokopi-di-kayuringin/"
+                                },
+                                "taken_at": 1695818990,
+                                "like_count": 5,
+                                "code": "CxsiRZmP9at",
+                                "media_overlay_info": null,
+                                "id": "3201084164451325613_3304615423"
+                            },
+                            "line_type": "none",
+                            "view_replies_cta_string": null,
+                            "reply_facepile_users": [],
+                            "should_show_replies_cta": false,
+                            "__typename": "XDTThreadItem"
+                        }
+                    ],
+                    "id": "3201084164451325613"
+                },
+                {
+                    "thread_items": [
+                        {
+                            "post": {
+                                "user": {
+                                    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/357850366_1332999474311178_7999188852534281106_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=srIFS-aGS_wAX8bWTtI&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfA2VJqa_ffAAbrShPuT5zgP5sElrKHaNbc6HbdrifR7GA&oe=65473B35&_nc_sid=10d13b",
+                                    "username": "bekasi24jamcom",
+                                    "id": null,
+                                    "is_verified": false,
+                                    "pk": "3304615423"
+                                },
+                                "image_versions2": {
+                                    "candidates": []
+                                },
+                                "original_width": 612,
+                                "original_height": 612,
+                                "video_versions": null,
+                                "carousel_media": null,
+                                "carousel_media_count": null,
+                                "pk": "3201079134818053183",
+                                "has_audio": null,
+                                "text_post_app_info": {
+                                    "link_preview_attachment": {
+                                        "display_url": "bekasi24jam.com",
+                                        "favicon_url": null,
+                                        "image_url": "https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/3940046106950589780?stp=dst-src&url=https%3A%2F%2Fbekasi24jam.com%2Fassets%2F2023%2F09%2FScreenshot_20230927_185347_Instagram-1.jpg&utld=bekasi24jam.com&ccb=13-1&oh=06_AbGb6GZfk5Xf58H6tor987lAFR7-LEJnZCuoCffl6BZcYw&oe=654388CC&_nc_sid=57c2a2",
+                                        "title": "Kaesang Jadi Ketum, PSI Kota Bekasi Pede Maju di Pilwalkot 2024 - Bekasi24jam",
+                                        "url": "https://l.instagram.com/?u=https%3A%2F%2Fbekasi24jam.com%2Fkaesang-jadi-ketum-psi-kota-bekasi-pede-maju-di-pilwalkot-2024%2F&e=AT26aozZ05ODKCZsLZkwXZf6_2TnV0TzxX9vdVCHIY72vQ3b9rtouIfC8ahrtSo5wu2q4JjjHAr7IukmYCuvRD9unpyvJitE8BEPRtd6wUJAAEs3PbON_ip9Ol6l6uN6LMY-Kw"
+                                    },
+                                    "share_info": {
+                                        "quoted_post": null,
+                                        "reposted_post": null
+                                    },
+                                    "reply_to_author": null,
+                                    "is_post_unavailable": false
+                                },
+                                "caption": {
+                                    "text": "Kaesang Jadi Ketum, PSI Kota Bekasi Pede Maju di Pilwalkot 2024\n\nhttps://bekasi24jam.com/kaesang-jadi-ketum-psi-kota-bekasi-pede-maju-di-pilwalkot-2024/"
+                                },
+                                "taken_at": 1695818391,
+                                "like_count": 1,
+                                "code": "CxshINYvqw_",
+                                "media_overlay_info": null,
+                                "id": "3201079134818053183_3304615423"
+                            },
+                            "line_type": "none",
+                            "view_replies_cta_string": null,
+                            "reply_facepile_users": [],
+                            "should_show_replies_cta": false,
+                            "__typename": "XDTThreadItem"
+                        }
+                    ],
+                    "id": "3201079134818053183"
+                },
+                {
+                    "thread_items": [
+                        {
+                            "post": {
+                                "user": {
+                                    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/357850366_1332999474311178_7999188852534281106_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=srIFS-aGS_wAX8bWTtI&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfA2VJqa_ffAAbrShPuT5zgP5sElrKHaNbc6HbdrifR7GA&oe=65473B35&_nc_sid=10d13b",
+                                    "username": "bekasi24jamcom",
+                                    "id": null,
+                                    "is_verified": false,
+                                    "pk": "3304615423"
+                                },
+                                "image_versions2": {
+                                    "candidates": []
+                                },
+                                "original_width": 612,
+                                "original_height": 612,
+                                "video_versions": null,
+                                "carousel_media": null,
+                                "carousel_media_count": null,
+                                "pk": "3201053050097612718",
+                                "has_audio": null,
+                                "text_post_app_info": {
+                                    "link_preview_attachment": {
+                                        "display_url": "bekasi24jam.com",
+                                        "favicon_url": null,
+                                        "image_url": "https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/10896869015777456926?stp=dst-src&url=https%3A%2F%2Fbekasi24jam.com%2Fassets%2F2023%2F09%2FIMG-20230927-WA0028.jpg&utld=bekasi24jam.com&ccb=13-1&oh=06_AbFUA-UiYcZrI7fpELwfIM8yKvmjlmmgz2FGTCwRSMynvQ&oe=65439B77&_nc_sid=57c2a2",
+                                        "title": "Remaja Dijual Pasutri di Jatiasih, Awalnya Dijanjikan Jadi LC - Bekasi24jam",
+                                        "url": "https://l.instagram.com/?u=https%3A%2F%2Fbekasi24jam.com%2Fremaja-dijual-pasutri-di-jatiasih-awalnya-dijanjikan-jadi-lc%2F&e=AT2vPGU06ctPC1FMAaq4TEOu798yIoSFgcowmsqLhFmbXL4A5zCb0YmEW7YOw1r_xPrwg2tws6cd_181uJ5DFTXM5nGrQCKkX8ooM-0tuVeBvw5YokT_4troHL3hswb_pchVCw"
+                                    },
+                                    "share_info": {
+                                        "quoted_post": null,
+                                        "reposted_post": null
+                                    },
+                                    "reply_to_author": null,
+                                    "is_post_unavailable": false
+                                },
+                                "caption": {
+                                    "text": "Remaja Dijual Pasutri di Jatiasih, Awalnya Dijanjikan Jadi LC\n\nhttps://bekasi24jam.com/remaja-dijual-pasutri-di-jatiasih-awalnya-dijanjikan-jadi-lc/"
+                                },
+                                "taken_at": 1695815281,
+                                "like_count": 3,
+                                "code": "CxsbMoGP7eu",
+                                "media_overlay_info": null,
+                                "id": "3201053050097612718_3304615423"
+                            },
+                            "line_type": "line",
+                            "view_replies_cta_string": "1 reply",
+                            "reply_facepile_users": [
+                                {
+                                    "__typename": "XDTUserDict",
+                                    "id": null,
+                                    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/383783393_254946917014861_4976613613074324329_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_ohc=uJjcIdRAgqgAX_vKJHA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfC2vKgkgLqCBzijOSrqxFNuzWWWmiEWvNYq5_hz6q6LQA&oe=6546F1D9&_nc_sid=10d13b"
+                                }
+                            ],
+                            "should_show_replies_cta": true,
+                            "__typename": "XDTThreadItem"
+                        }
+                    ],
+                    "id": "3201053050097612718"
+                },
+                {
+                    "thread_items": [
+                        {
+                            "post": {
+                                "user": {
+                                    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/357850366_1332999474311178_7999188852534281106_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=srIFS-aGS_wAX8bWTtI&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfA2VJqa_ffAAbrShPuT5zgP5sElrKHaNbc6HbdrifR7GA&oe=65473B35&_nc_sid=10d13b",
+                                    "username": "bekasi24jamcom",
+                                    "id": null,
+                                    "is_verified": false,
+                                    "pk": "3304615423"
+                                },
+                                "image_versions2": {
+                                    "candidates": []
+                                },
+                                "original_width": 612,
+                                "original_height": 612,
+                                "video_versions": null,
+                                "carousel_media": null,
+                                "carousel_media_count": null,
+                                "pk": "3199624574207435817",
+                                "has_audio": null,
+                                "text_post_app_info": {
+                                    "link_preview_attachment": {
+                                        "display_url": "bekasi24jam.com",
+                                        "favicon_url": null,
+                                        "image_url": "https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/5903305721008210185?stp=dst-src&url=https%3A%2F%2Fbekasi24jam.com%2Fassets%2F2023%2F09%2FIMG-20230920-WA0019-1.jpg&utld=bekasi24jam.com&ccb=13-1&oh=06_AbEtPJOchf7T4cvkXmfn5796S05v7qSfmodTYxdWsUNrzA&oe=6543BAB8&_nc_sid=57c2a2",
+                                        "title": "Pj Wali Kota Bekasi Meminta Uang Kepada ASN, Benarkah? - Bekasi24jam",
+                                        "url": "https://l.instagram.com/?u=https%3A%2F%2Fbekasi24jam.com%2Fpj-wali-kota-bekasi-meminta-uang-kepada-asn-benarkah%2F&e=AT0-mhTbfh659ZD0hRxzhqCQTbW74CCpvoyGZlcGUjTMRBEjglmzEnC3rHWNb0ReaVUDnPhj_ewLSC6vdqPXRp1Rc7wnzsisXedqmXJplz69IbR6L3ffA6qhC5jesPioo7dtlg"
+                                    },
+                                    "share_info": {
+                                        "quoted_post": null,
+                                        "reposted_post": null
+                                    },
+                                    "reply_to_author": null,
+                                    "is_post_unavailable": false
+                                },
+                                "caption": {
+                                    "text": "Pj Wali Kota Bekasi Meminta Uang Kepada ASN, Benarkah?\n\nhttps://bekasi24jam.com/pj-wali-kota-bekasi-meminta-uang-kepada-asn-benarkah/"
+                                },
+                                "taken_at": 1695644994,
+                                "like_count": 1,
+                                "code": "CxnWZkQPqQp",
+                                "media_overlay_info": null,
+                                "id": "3199624574207435817_3304615423"
+                            },
+                            "line_type": "none",
+                            "view_replies_cta_string": null,
+                            "reply_facepile_users": [],
+                            "should_show_replies_cta": false,
+                            "__typename": "XDTThreadItem"
+                        }
+                    ],
+                    "id": "3199624574207435817"
+                },
+                {
+                    "thread_items": [
+                        {
+                            "post": {
+                                "user": {
+                                    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/357850366_1332999474311178_7999188852534281106_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=srIFS-aGS_wAX8bWTtI&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfA2VJqa_ffAAbrShPuT5zgP5sElrKHaNbc6HbdrifR7GA&oe=65473B35&_nc_sid=10d13b",
+                                    "username": "bekasi24jamcom",
+                                    "id": null,
+                                    "is_verified": false,
+                                    "pk": "3304615423"
+                                },
+                                "image_versions2": {
+                                    "candidates": []
+                                },
+                                "original_width": 612,
+                                "original_height": 612,
+                                "video_versions": null,
+                                "carousel_media": null,
+                                "carousel_media_count": null,
+                                "pk": "3197502764447940479",
+                                "has_audio": null,
+                                "text_post_app_info": {
+                                    "link_preview_attachment": {
+                                        "display_url": "bekasi24jam.com",
+                                        "favicon_url": null,
+                                        "image_url": "https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/12111080643101233412?stp=dst-src&url=https%3A%2F%2Fbekasi24jam.com%2Fassets%2F2023%2F09%2F1-viral-ibu-paksa-orang-bersedekah-instagram-at-memomedsos.jpg&utld=bekasi24jam.com&ccb=13-1&oh=06_AbEgVpm-le8PrZqoouNe4c8FinSKGq909jRwtRDLeO2Z6Q&oe=654371A5&_nc_sid=57c2a2",
+                                        "title": "Viral Emak-emak Paksa Orang Bersedekah di Bekasi",
+                                        "url": "https://l.instagram.com/?u=https%3A%2F%2Fbekasi24jam.com%2Fviral-emak-emak-paksa-orang-bersedekah-di-bekasi-suaranya-mirip-ibunya-artis%2F&e=AT1TJiMwTDj1YboHMmg0ygmn3rlRfh8bo5rejLo7t0Kn1gBKlnWJsLDWXEanNbEHEC061etigLyXovbQNRt7Pe_uR9gmQX1k--MLbs3I6jpQXydee4zstovRR8i28V9gF09tZQ"
+                                    },
+                                    "share_info": {
+                                        "quoted_post": null,
+                                        "reposted_post": null
+                                    },
+                                    "reply_to_author": null,
+                                    "is_post_unavailable": false
+                                },
+                                "caption": {
+                                    "text": "Viral Emak-emak Paksa Orang Bersedekah di Bekasi, Suaranya Mirip Ibunya Artis\nhttps://bekasi24jam.com/viral-emak-emak-paksa-orang-bersedekah-di-bekasi-suaranya-mirip-ibunya-artis/"
+                                },
+                                "taken_at": 1695392054,
+                                "like_count": 2,
+                                "code": "Cxfz9K7P79_",
+                                "media_overlay_info": null,
+                                "id": "3197502764447940479_3304615423"
+                            },
+                            "line_type": "none",
+                            "view_replies_cta_string": null,
+                            "reply_facepile_users": [],
+                            "should_show_replies_cta": false,
+                            "__typename": "XDTThreadItem"
+                        }
+                    ],
+                    "id": "3197502764447940479"
+                },
+                {
+                    "thread_items": [
+                        {
+                            "post": {
+                                "user": {
+                                    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/357850366_1332999474311178_7999188852534281106_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=srIFS-aGS_wAX8bWTtI&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfA2VJqa_ffAAbrShPuT5zgP5sElrKHaNbc6HbdrifR7GA&oe=65473B35&_nc_sid=10d13b",
+                                    "username": "bekasi24jamcom",
+                                    "id": null,
+                                    "is_verified": false,
+                                    "pk": "3304615423"
+                                },
+                                "image_versions2": {
+                                    "candidates": []
+                                },
+                                "original_width": 612,
+                                "original_height": 612,
+                                "video_versions": null,
+                                "carousel_media": null,
+                                "carousel_media_count": null,
+                                "pk": "3197493328933177406",
+                                "has_audio": null,
+                                "text_post_app_info": {
+                                    "link_preview_attachment": {
+                                        "display_url": "bekasi24jam.com",
+                                        "favicon_url": null,
+                                        "image_url": "https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/12576371448284384205?stp=dst-src&url=https%3A%2F%2Fbekasi24jam.com%2Fassets%2F2023%2F09%2FWhatsApp-Image-2023-09-22-at-19.18.54.jpeg&utld=bekasi24jam.com&ccb=13-1&oh=06_AbE0k8rjlnEySwdyKpbDztbjQ_xjRnXsHNZi-5fm9TURaA&oe=654390F8&_nc_sid=57c2a2",
+                                        "title": "3 Orang Jadi Tersangka Bentrok Ormas di Bekasi - Bekasi24jam",
+                                        "url": "https://l.instagram.com/?u=https%3A%2F%2Fbekasi24jam.com%2F3-orang-jadi-tersangka-bentrok-ormas-di-bekasi%2F&e=AT1rmEoTaEJ3Xi3GayvIf0nfPpwOvp3KsB9CkOlp3Am5kIIsuvubGQ1ucmNddUdB5y1Mx97w2lkpQqnxL41H43R1L4jdkJZhlRSeLWVB6dKvWYYQTeCDUkkhq-7OpBkrwPxdzQ"
+                                    },
+                                    "share_info": {
+                                        "quoted_post": null,
+                                        "reposted_post": null
+                                    },
+                                    "reply_to_author": null,
+                                    "is_post_unavailable": false
+                                },
+                                "caption": {
+                                    "text": "3 Orang Jadi Tersangka Bentrok Ormas di Bekasi\nhttps://bekasi24jam.com/3-orang-jadi-tersangka-bentrok-ormas-di-bekasi/"
+                                },
+                                "taken_at": 1695390929,
+                                "like_count": 2,
+                                "code": "Cxfxz3avkg-",
+                                "media_overlay_info": null,
+                                "id": "3197493328933177406_3304615423"
+                            },
+                            "line_type": "none",
+                            "view_replies_cta_string": null,
+                            "reply_facepile_users": [],
+                            "should_show_replies_cta": false,
+                            "__typename": "XDTThreadItem"
+                        }
+                    ],
+                    "id": "3197493328933177406"
+                },
+                {
+                    "thread_items": [
+                        {
+                            "post": {
+                                "user": {
+                                    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/357850366_1332999474311178_7999188852534281106_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=srIFS-aGS_wAX8bWTtI&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfA2VJqa_ffAAbrShPuT5zgP5sElrKHaNbc6HbdrifR7GA&oe=65473B35&_nc_sid=10d13b",
+                                    "username": "bekasi24jamcom",
+                                    "id": null,
+                                    "is_verified": false,
+                                    "pk": "3304615423"
+                                },
+                                "image_versions2": {
+                                    "candidates": []
+                                },
+                                "original_width": 612,
+                                "original_height": 612,
+                                "video_versions": null,
+                                "carousel_media": null,
+                                "carousel_media_count": null,
+                                "pk": "3197472988085612589",
+                                "has_audio": null,
+                                "text_post_app_info": {
+                                    "link_preview_attachment": {
+                                        "display_url": "bekasi24jam.com",
+                                        "favicon_url": null,
+                                        "image_url": "https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/1274842771740691643?stp=dst-src&url=https%3A%2F%2Fbekasi24jam.com%2Fassets%2F2023%2F09%2FWhatsApp-Image-2023-09-22-at-19.12.07.jpeg&utld=bekasi24jam.com&ccb=13-1&oh=06_AbE0iV3ftZQJtWlh5-y4dpyzkC1lEA1QjCwF1NEwvvLgeQ&oe=6543B161&_nc_sid=57c2a2",
+                                        "title": "Polisi Selidiki Dugaan Peluru Nyasar di Rumah Warga Bekasi - Bekasi24jam",
+                                        "url": "https://l.instagram.com/?u=https%3A%2F%2Fbekasi24jam.com%2Fpolisi-selidiki-dugaan-peluru-nyasar-di-rumah-warga-bekasi%2F&e=AT3UBkEOFDsmGz_ff80kt-RN4q1bRx87zme3KCwGTBltONukHOXxivUJjZ6yMCP6PKMUkrq4pAjbRsq7D5-99JNzD7SBbJUemey-3AtMgyDcQ5R68sFL-d6_O8kWQtexxnec8Q"
+                                    },
+                                    "share_info": {
+                                        "quoted_post": null,
+                                        "reposted_post": null
+                                    },
+                                    "reply_to_author": null,
+                                    "is_post_unavailable": false
+                                },
+                                "caption": {
+                                    "text": "Polisi Selidiki Dugaan Peluru Nyasar di Rumah Warga Bekasi\nhttps://bekasi24jam.com/polisi-selidiki-dugaan-peluru-nyasar-di-rumah-warga-bekasi/"
+                                },
+                                "taken_at": 1695388504,
+                                "like_count": 1,
+                                "code": "CxftL3hv_At",
+                                "media_overlay_info": null,
+                                "id": "3197472988085612589_3304615423"
+                            },
+                            "line_type": "none",
+                            "view_replies_cta_string": null,
+                            "reply_facepile_users": [],
+                            "should_show_replies_cta": false,
+                            "__typename": "XDTThreadItem"
+                        }
+                    ],
+                    "id": "3197472988085612589"
+                },
+                {
+                    "thread_items": [
+                        {
+                            "post": {
+                                "user": {
+                                    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/357850366_1332999474311178_7999188852534281106_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=srIFS-aGS_wAX8bWTtI&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfA2VJqa_ffAAbrShPuT5zgP5sElrKHaNbc6HbdrifR7GA&oe=65473B35&_nc_sid=10d13b",
+                                    "username": "bekasi24jamcom",
+                                    "id": null,
+                                    "is_verified": false,
+                                    "pk": "3304615423"
+                                },
+                                "image_versions2": {
+                                    "candidates": []
+                                },
+                                "original_width": 612,
+                                "original_height": 612,
+                                "video_versions": null,
+                                "carousel_media": null,
+                                "carousel_media_count": null,
+                                "pk": "3197451249150564819",
+                                "has_audio": null,
+                                "text_post_app_info": {
+                                    "link_preview_attachment": {
+                                        "display_url": "bekasi24jam.com",
+                                        "favicon_url": null,
+                                        "image_url": "https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/5543478475959743413?stp=dst-src&url=https%3A%2F%2Fbekasi24jam.com%2Fassets%2F2023%2F09%2FInShot_20230922_191725688-scaled.jpg&utld=bekasi24jam.com&ccb=13-1&oh=06_AbHY9PSbtaJ61EuNChZNHhRTg0u9O6zxXKrweo1SO-qSTw&oe=6543B5F0&_nc_sid=57c2a2",
+                                        "title": "Ngeri! Ada Peluru Nyasar di Rumah Warga Mustikajaya Bekasi - Bekasi24jam",
+                                        "url": "https://l.instagram.com/?u=https%3A%2F%2Fbekasi24jam.com%2Fngeri-ada-peluru-nyasar-di-rumah-warga-mustikajaya-bekasi%2F&e=AT3miwPwq21lSqYenVy9hyWuHqS5h6UxKuNuUSKSm_ZdxeWdiWPWxnq9rEwSaxZNZ3-kQR1_Ad_WB8nPnhZQMikQdhqje-fguOtGjNtA4HyVLAtXU8AzwqwZdsfL4PM7L28Rdw"
+                                    },
+                                    "share_info": {
+                                        "quoted_post": null,
+                                        "reposted_post": null
+                                    },
+                                    "reply_to_author": null,
+                                    "is_post_unavailable": false
+                                },
+                                "caption": {
+                                    "text": "Ngeri! Ada Peluru Nyasar di Rumah Warga Mustikajaya Bekasi\n\nhttps://bekasi24jam.com/ngeri-ada-peluru-nyasar-di-rumah-warga-mustikajaya-bekasi/"
+                                },
+                                "taken_at": 1695385913,
+                                "like_count": 3,
+                                "code": "CxfoPhkP5nT",
+                                "media_overlay_info": null,
+                                "id": "3197451249150564819_3304615423"
+                            },
+                            "line_type": "none",
+                            "view_replies_cta_string": null,
+                            "reply_facepile_users": [],
+                            "should_show_replies_cta": false,
+                            "__typename": "XDTThreadItem"
+                        }
+                    ],
+                    "id": "3197451249150564819"
+                },
+                {
+                    "thread_items": [
+                        {
+                            "post": {
+                                "user": {
+                                    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/357850366_1332999474311178_7999188852534281106_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=srIFS-aGS_wAX8bWTtI&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfA2VJqa_ffAAbrShPuT5zgP5sElrKHaNbc6HbdrifR7GA&oe=65473B35&_nc_sid=10d13b",
+                                    "username": "bekasi24jamcom",
+                                    "id": null,
+                                    "is_verified": false,
+                                    "pk": "3304615423"
+                                },
+                                "image_versions2": {
+                                    "candidates": []
+                                },
+                                "original_width": 612,
+                                "original_height": 612,
+                                "video_versions": null,
+                                "carousel_media": null,
+                                "carousel_media_count": null,
+                                "pk": "3196689248400822833",
+                                "has_audio": null,
+                                "text_post_app_info": {
+                                    "link_preview_attachment": {
+                                        "display_url": "bekasi24jam.com",
+                                        "favicon_url": null,
+                                        "image_url": "https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/11619053133844567403?stp=dst-src&url=https%3A%2F%2Fbekasi24jam.com%2Fassets%2F2023%2F09%2FScreenshot_20230921-180511.jpg&utld=bekasi24jam.com&ccb=13-1&oh=06_AbEbmu4NepDw7jtVTep6JLz2iGReG520b92uS8BiawtxGA&oe=65432A72&_nc_sid=57c2a2",
+                                        "title": "148 Pelanggaran Selama 3 Hari Operasi Zebra di Bekasi",
+                                        "url": "https://l.instagram.com/?u=https%3A%2F%2Fbekasi24jam.com%2F148-pelanggaran-selama-3-hari-operasi-zebra-di-bekasi%2F&e=AT1xy42SUNHA441gFmQOvxHhU3IQyxMawnAzujVOzXBKQiqGOND9Qp34UVc1g0HVe3kjbc2wW5HAHMGdTeUqVi9LGYI9BUuVbo90cifjTeGXTBWKXugrFCkDMp50oXZJxhDhWA"
+                                    },
+                                    "share_info": {
+                                        "quoted_post": null,
+                                        "reposted_post": null
+                                    },
+                                    "reply_to_author": null,
+                                    "is_post_unavailable": false
+                                },
+                                "caption": {
+                                    "text": "148 Pelanggaran Selama 3 Hari Operasi Zebra di Bekasi\n\nhttps://bekasi24jam.com/148-pelanggaran-selama-3-hari-operasi-zebra-di-bekasi/"
+                                },
+                                "taken_at": 1695295075,
+                                "like_count": 1,
+                                "code": "Cxc6-9EPdIx",
+                                "media_overlay_info": null,
+                                "id": "3196689248400822833_3304615423"
+                            },
+                            "line_type": "none",
+                            "view_replies_cta_string": null,
+                            "reply_facepile_users": [],
+                            "should_show_replies_cta": false,
+                            "__typename": "XDTThreadItem"
+                        }
+                    ],
+                    "id": "3196689248400822833"
+                },
+                {
+                    "thread_items": [
+                        {
+                            "post": {
+                                "user": {
+                                    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/357850366_1332999474311178_7999188852534281106_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=srIFS-aGS_wAX8bWTtI&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfA2VJqa_ffAAbrShPuT5zgP5sElrKHaNbc6HbdrifR7GA&oe=65473B35&_nc_sid=10d13b",
+                                    "username": "bekasi24jamcom",
+                                    "id": null,
+                                    "is_verified": false,
+                                    "pk": "3304615423"
+                                },
+                                "image_versions2": {
+                                    "candidates": []
+                                },
+                                "original_width": 612,
+                                "original_height": 612,
+                                "video_versions": null,
+                                "carousel_media": null,
+                                "carousel_media_count": null,
+                                "pk": "3196506325945110757",
+                                "has_audio": null,
+                                "text_post_app_info": {
+                                    "link_preview_attachment": {
+                                        "display_url": "bekasi24jam.com",
+                                        "favicon_url": null,
+                                        "image_url": "https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/7575105017779275867?stp=dst-src&url=https%3A%2F%2Fbekasi24jam.com%2Fassets%2F2023%2F09%2FScreenshot_20230920-234824.jpg&utld=bekasi24jam.com&ccb=13-1&oh=06_AbHSYTba98rtbf51X1nLrBVVwnTYOZU0DlL8KP-MugkidA&oe=65432EE1&_nc_sid=57c2a2",
+                                        "title": "Satu Orang Tewas Dalam Bentrokan Ormas di Mustika Jaya - Bekasi24jam",
+                                        "url": "https://l.instagram.com/?u=https%3A%2F%2Fbekasi24jam.com%2Fsatu-orang-tewas-dalam-bentrokan-ormas-di-mustika-jaya%2F&e=AT2naAS7lhSjnmxnx0vJ_5Fzn7L4-dd5yGH4cshIiVGV3Ubmn0jdaoLCD-sY-VviltwvD-QS8nNuMda1xHiPnPr2hSIos2Md-4CSQYtCSEevRXiNCVlbujZGVIVrj2HiVdcUvA"
+                                    },
+                                    "share_info": {
+                                        "quoted_post": null,
+                                        "reposted_post": null
+                                    },
+                                    "reply_to_author": null,
+                                    "is_post_unavailable": false
+                                },
+                                "caption": {
+                                    "text": "Satu Orang Tewas Dalam Bentrokan Ormas di Mustika Jaya\n\nhttps://bekasi24jam.com/satu-orang-tewas-dalam-bentrokan-ormas-di-mustika-jaya/"
+                                },
+                                "taken_at": 1695273269,
+                                "like_count": 2,
+                                "code": "CxcRZFQP1Dl",
+                                "media_overlay_info": null,
+                                "id": "3196506325945110757_3304615423"
+                            },
+                            "line_type": "none",
+                            "view_replies_cta_string": null,
+                            "reply_facepile_users": [],
+                            "should_show_replies_cta": false,
+                            "__typename": "XDTThreadItem"
+                        }
+                    ],
+                    "id": "3196506325945110757"
+                },
+                {
+                    "thread_items": [
+                        {
+                            "post": {
+                                "user": {
+                                    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/357850366_1332999474311178_7999188852534281106_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=srIFS-aGS_wAX8bWTtI&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfA2VJqa_ffAAbrShPuT5zgP5sElrKHaNbc6HbdrifR7GA&oe=65473B35&_nc_sid=10d13b",
+                                    "username": "bekasi24jamcom",
+                                    "id": null,
+                                    "is_verified": false,
+                                    "pk": "3304615423"
+                                },
+                                "image_versions2": {
+                                    "candidates": []
+                                },
+                                "original_width": 612,
+                                "original_height": 612,
+                                "video_versions": null,
+                                "carousel_media": null,
+                                "carousel_media_count": null,
+                                "pk": "3196133863621230657",
+                                "has_audio": null,
+                                "text_post_app_info": {
+                                    "link_preview_attachment": null,
+                                    "share_info": {
+                                        "quoted_post": null,
+                                        "reposted_post": null
+                                    },
+                                    "reply_to_author": null,
+                                    "is_post_unavailable": false
+                                },
+                                "caption": {
+                                    "text": "Begini Cerita Awal Terjadinya Bentrokan Antar Ormas di Bekasi"
+                                },
+                                "taken_at": 1695228868,
+                                "like_count": 0,
+                                "code": "Cxa8tCrvYBB",
+                                "media_overlay_info": null,
+                                "id": "3196133863621230657_3304615423"
+                            },
+                            "line_type": "line",
+                            "view_replies_cta_string": "1 reply",
+                            "reply_facepile_users": [],
+                            "should_show_replies_cta": false,
+                            "__typename": "XDTThreadItem"
+                        },
+                        {
+                            "post": {
+                                "user": {
+                                    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/357850366_1332999474311178_7999188852534281106_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=srIFS-aGS_wAX8bWTtI&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfA2VJqa_ffAAbrShPuT5zgP5sElrKHaNbc6HbdrifR7GA&oe=65473B35&_nc_sid=10d13b",
+                                    "username": "bekasi24jamcom",
+                                    "id": null,
+                                    "is_verified": false,
+                                    "pk": "3304615423"
+                                },
+                                "image_versions2": {
+                                    "candidates": []
+                                },
+                                "original_width": 612,
+                                "original_height": 612,
+                                "video_versions": null,
+                                "carousel_media": null,
+                                "carousel_media_count": null,
+                                "pk": "3196133892553610048",
+                                "has_audio": null,
+                                "text_post_app_info": {
+                                    "link_preview_attachment": null,
+                                    "share_info": {
+                                        "quoted_post": null,
+                                        "reposted_post": null
+                                    },
+                                    "reply_to_author": {
+                                        "username": "bekasi24jamcom",
+                                        "id": null
+                                    },
+                                    "is_post_unavailable": false
+                                },
+                                "caption": {
+                                    "text": "https://bekasi24jam.com/begini-cerita-awal-terjadinya-bentrokan-antar-ormas-di-bekasi/"
+                                },
+                                "taken_at": 1695228872,
+                                "like_count": 0,
+                                "code": "Cxa8tdoPpNA",
+                                "media_overlay_info": null,
+                                "id": "3196133892553610048_3304615423"
+                            },
+                            "line_type": "none",
+                            "view_replies_cta_string": null,
+                            "reply_facepile_users": [],
+                            "should_show_replies_cta": false,
+                            "__typename": "XDTThreadItem"
+                        }
+                    ],
+                    "id": "3196133863621230657"
+                },
+                {
+                    "thread_items": [
+                        {
+                            "post": {
+                                "user": {
+                                    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/357850366_1332999474311178_7999188852534281106_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=srIFS-aGS_wAX8bWTtI&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfA2VJqa_ffAAbrShPuT5zgP5sElrKHaNbc6HbdrifR7GA&oe=65473B35&_nc_sid=10d13b",
+                                    "username": "bekasi24jamcom",
+                                    "id": null,
+                                    "is_verified": false,
+                                    "pk": "3304615423"
+                                },
+                                "image_versions2": {
+                                    "candidates": []
+                                },
+                                "original_width": 612,
+                                "original_height": 612,
+                                "video_versions": null,
+                                "carousel_media": null,
+                                "carousel_media_count": null,
+                                "pk": "3194974707396768267",
+                                "has_audio": null,
+                                "text_post_app_info": {
+                                    "link_preview_attachment": {
+                                        "display_url": "bekasi24jam.com",
+                                        "favicon_url": null,
+                                        "image_url": "https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/313088623074592954?stp=dst-src&url=https%3A%2F%2Fbekasi24jam.com%2Fassets%2F2023%2F06%2FWhatsApp-Image-2023-06-26-at-13.46.09.jpeg&utld=bekasi24jam.com&ccb=13-1&oh=06_AbHJ0BkYXemU16OV-TP3L-wWcy-9aXB9BKA375-9FIcy-A&oe=654348DF&_nc_sid=57c2a2",
+                                        "title": "Tri Adhianto Wariskan Sejumlah Masalah Jelang Purna Tugas - Bekasi24jam",
+                                        "url": "https://l.instagram.com/?u=https%3A%2F%2Fbekasi24jam.com%2Ftri-adhianto-wariskan-sejumlah-masalah-jelang-purna-tugas%2F&e=AT2qV_RivJstAaM-v8AuNlxd86nYMLdT0K42DTPPMf-i0ykRzTv83Ih1kEigdnngLVjo8vu_2lNALUhXlpTSjqpaLMGqSdY-mBXkU1_knXPEJJ1-W5EuCi7vHa7OHHehxn8JGA"
+                                    },
+                                    "share_info": {
+                                        "quoted_post": null,
+                                        "reposted_post": null
+                                    },
+                                    "reply_to_author": null,
+                                    "is_post_unavailable": false
+                                },
+                                "caption": {
+                                    "text": "Tri Adhianto Wariskan Sejumlah Masalah Jelang Purna Tugas\n\nhttps://bekasi24jam.com/tri-adhianto-wariskan-sejumlah-masalah-jelang-purna-tugas/"
+                                },
+                                "taken_at": 1695090686,
+                                "like_count": 0,
+                                "code": "CxW1JGUvfIL",
+                                "media_overlay_info": null,
+                                "id": "3194974707396768267_3304615423"
+                            },
+                            "line_type": "none",
+                            "view_replies_cta_string": null,
+                            "reply_facepile_users": [],
+                            "should_show_replies_cta": false,
+                            "__typename": "XDTThreadItem"
+                        }
+                    ],
+                    "id": "3194974707396768267"
+                },
+                {
+                    "thread_items": [
+                        {
+                            "post": {
+                                "user": {
+                                    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/357850366_1332999474311178_7999188852534281106_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=srIFS-aGS_wAX8bWTtI&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfA2VJqa_ffAAbrShPuT5zgP5sElrKHaNbc6HbdrifR7GA&oe=65473B35&_nc_sid=10d13b",
+                                    "username": "bekasi24jamcom",
+                                    "id": null,
+                                    "is_verified": false,
+                                    "pk": "3304615423"
+                                },
+                                "image_versions2": {
+                                    "candidates": []
+                                },
+                                "original_width": 612,
+                                "original_height": 612,
+                                "video_versions": null,
+                                "carousel_media": null,
+                                "carousel_media_count": null,
+                                "pk": "3194958133797582456",
+                                "has_audio": null,
+                                "text_post_app_info": {
+                                    "link_preview_attachment": {
+                                        "display_url": "bekasi24jam.com",
+                                        "favicon_url": null,
+                                        "image_url": "https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/51411646108577439?stp=dst-src&url=https%3A%2F%2Fbekasi24jam.com%2Fassets%2F2023%2F09%2FWhatsApp-Image-2023-09-18-at-23.22.48.jpeg&utld=bekasi24jam.com&ccb=13-1&oh=06_AbH_XJYkAFR2eKNDb4qfEoeOzH6QnA6GTnL42j7S9QntSg&oe=6543253F&_nc_sid=57c2a2",
+                                        "title": "Medsos Wali Kota Bekasi Diserbu Keluhan Warga Terkait Air Bersih - Bekasi24jam",
+                                        "url": "https://l.instagram.com/?u=https%3A%2F%2Fbekasi24jam.com%2Fmedsos-wali-kota-bekasi-diserbu-keluhan-warga-terkait-air-bersih%2F&e=AT2PdD0KNR2UMrkW6pGC1A5GZRQWTYasbOjuipWDTrkGqwWTAUyGIgrf0BB4522CvaOhE75o244yribTatGJdyehbZ81pnU_0NEbBp1E2HQsIxUxwxs1gLyA8q2mSTVNfDySPw"
+                                    },
+                                    "share_info": {
+                                        "quoted_post": null,
+                                        "reposted_post": null
+                                    },
+                                    "reply_to_author": null,
+                                    "is_post_unavailable": false
+                                },
+                                "caption": {
+                                    "text": "Medsos Wali Kota Bekasi Diserbu Keluhan Warga Terkait Air Bersih\nhttps://bekasi24jam.com/medsos-wali-kota-bekasi-diserbu-keluhan-warga-terkait-air-bersih/"
+                                },
+                                "taken_at": 1695088710,
+                                "like_count": 2,
+                                "code": "CxWxX69P_Z4",
+                                "media_overlay_info": null,
+                                "id": "3194958133797582456_3304615423"
+                            },
+                            "line_type": "none",
+                            "view_replies_cta_string": null,
+                            "reply_facepile_users": [],
+                            "should_show_replies_cta": false,
+                            "__typename": "XDTThreadItem"
+                        }
+                    ],
+                    "id": "3194958133797582456"
+                },
+                {
+                    "thread_items": [
+                        {
+                            "post": {
+                                "user": {
+                                    "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.2885-19/357850366_1332999474311178_7999188852534281106_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=srIFS-aGS_wAX8bWTtI&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfA2VJqa_ffAAbrShPuT5zgP5sElrKHaNbc6HbdrifR7GA&oe=65473B35&_nc_sid=10d13b",
+                                    "username": "bekasi24jamcom",
+                                    "id": null,
+                                    "is_verified": false,
+                                    "pk": "3304615423"
+                                },
+                                "image_versions2": {
+                                    "candidates": []
+                                },
+                                "original_width": 612,
+                                "original_height": 612,
+                                "video_versions": null,
+                                "carousel_media": null,
+                                "carousel_media_count": null,
+                                "pk": "3194957762819531853",
+                                "has_audio": null,
+                                "text_post_app_info": {
+                                    "link_preview_attachment": {
+                                        "display_url": "bekasi24jam.com",
+                                        "favicon_url": null,
+                                        "image_url": "https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/1541966881808873005?stp=dst-src&url=https%3A%2F%2Fbekasi24jam.com%2Fassets%2F2023%2F09%2FWhatsApp-Image-2023-09-18-at-14.22.13.jpeg&utld=bekasi24jam.com&ccb=13-1&oh=06_AbHQ4PVEAy3DGhdpadX82i7tVFz5VwzoaNmSKH_HPg08Cw&oe=65437128&_nc_sid=57c2a2",
+                                        "title": "Warga Gatal-gatal Efek Air Perumda Tirta Patriot - Bekasi24jam",
+                                        "url": "https://l.instagram.com/?u=https%3A%2F%2Fbekasi24jam.com%2Fwarga-gatal-gatal-efek-air-perumda-tirta-patriot%2F&e=AT2biiuzR6BgJzHNEFcIJ0iljjP3CqautXpRBdlzAeAhL0V7xKo5CKsY-Orhj14J9wEf99cneE8TJF7IRJrtg2yqiz2QsmoMfT_x1JJhSjWxGYKIUMpI7HkFKv8eWzKlxV1t1g"
+                                    },
+                                    "share_info": {
+                                        "quoted_post": null,
+                                        "reposted_post": null
+                                    },
+                                    "reply_to_author": null,
+                                    "is_post_unavailable": false
+                                },
+                                "caption": {
+                                    "text": "Warga Gatal-gatal Efek Air Perumda Tirta Patriot\nhttps://bekasi24jam.com/warga-gatal-gatal-efek-air-perumda-tirta-patriot/"
+                                },
+                                "taken_at": 1695088666,
+                                "like_count": 0,
+                                "code": "CxWxShdPCRN",
+                                "media_overlay_info": null,
+                                "id": "3194957762819531853_3304615423"
+                            },
+                            "line_type": "none",
+                            "view_replies_cta_string": null,
+                            "reply_facepile_users": [],
+                            "should_show_replies_cta": false,
+                            "__typename": "XDTThreadItem"
+                        }
+                    ],
+                    "id": "3194957762819531853"
+                }
+            ]
+        }
+    },
+    "extensions": {
+        "is_final": true
+    }
+}
